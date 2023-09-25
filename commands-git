@@ -3,3 +3,5 @@ Les 3 commandes sont:
 git commit 
 git add
 git push -u origin main
+La commande qui permet de pull:
+git pull
