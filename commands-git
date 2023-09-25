@@ -5,3 +5,7 @@ git add
 git push -u origin main
 La commande qui permet de pull:
 git pull origin main
+La commande qui permet de crée une branche:
+git branch add-create-branch-command
+La commande qui permet de switch de branche:
+git checkout add-create-branch-command
