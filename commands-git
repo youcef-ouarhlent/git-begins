@@ -1,0 +1,5 @@
+git clone https://github.com/youcef-ouarhlent/git-begins.git 
+Les 3 commandes sont:
+git commit 
+git add
+git push -u origin main
